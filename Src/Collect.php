@@ -1,7 +1,6 @@
 <?php
-
 namespace Collect;
-
+//    adasdsa
 class Collect
 {
     private array $array = [];
