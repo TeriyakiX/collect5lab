@@ -1,0 +1,13 @@
+{
+    "name": "dany/collect5lab",
+    "description": "collect2",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dany"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
